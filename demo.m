@@ -1,0 +1,2 @@
+h = "hello class";
+h
